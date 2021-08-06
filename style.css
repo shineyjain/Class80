@@ -1,0 +1,27 @@
+#Submit{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#Sort{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+
+    }
+    input{
+     margin: 10px;   
+    }
+    #Display_Name_with_commas{
+border: 5px solid pink;
+background-color: purple ;
+border-radius: 10px;
+width: 50%;
+padding: 10px;
+    }
+    #Display_Name_without_commas{
+        border: 5px solid rgb(209, 192, 255);
+        background-color: rgb(128, 0, 111) ;
+        border-radius: 10px;
+        width: 50%;
+        padding: 10px;
+            }
